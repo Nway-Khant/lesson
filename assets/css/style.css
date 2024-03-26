@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: brown;
+    margin: 0 auto;
+    padding: 24px;
+}
+header h1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    padding: 20px;
+    display: inline;
+}
+
+header a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+header nav{
+    float: right;
+    margin: 6px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer{
+    background-color: aqua;
+    width: 100%;
+    line-height: 1.5;
+    padding: 30px;
+}
+
+footer h2 {
+    display: inline;
+    color: beige;
+    margin: 0;
+
+}
+footer section{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
